@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi everyone ! 
+
+![Banner](https://github.com/vanessann-dev/vanessann-dev/assets/125521341/2f67b2d6-bc91-4e73-97ef-54acb7ec45a4)
 
 <!--
 **vanessann-dev/vanessann-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
