@@ -31,7 +31,6 @@ I consider myself a creative person, which is why I am currently studying U/I an
 
 ##  Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/dev-vanessan) 
-</br>
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/.vanessan) 
 
 <br/>
