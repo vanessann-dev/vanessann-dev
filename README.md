@@ -1,5 +1,3 @@
-### Hi everyone 👋🏻 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="41" height="41" /></div>
-
 ![Banner GH](https://github.com/vanessann-dev/vanessann-dev/assets/125521341/84ec1730-3484-431b-898d-158defe3ea59)
 
 #  Me 
