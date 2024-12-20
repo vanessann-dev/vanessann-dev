@@ -34,7 +34,14 @@ I consider myself a creative person, which is why I am currently studying U/I an
 ---
 
 
-## 📫 Connect with me
+## 📫 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+  <img src="https://github.com/user-attachments/assets/6b6d6d3e-6f7b-435b-bce1-9ad7f7f79ef3" alt="My Skills"/>
+  </a>
+</p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dev-vanessan/">
