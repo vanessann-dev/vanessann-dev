@@ -30,11 +30,10 @@ I consider myself a creative person, which is why I am currently studying U/I an
 
 ---
 
-
 ## 🙌🏻
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d8a8a621-02db-4964-a3c7-c511a47dfdfb" alt="My Skills"/>
+  <img src="https://github.com/user-attachments/assets/7249e2cb-f2b3-48d2-8555-65119d5675a3" alt="My Skills"/>
 </p>
 
 <table align="center">
