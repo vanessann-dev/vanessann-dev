@@ -25,7 +25,7 @@ I consider myself a creative person, which is why I am currently studying U/I an
   <img src="https://github-readme-stats.vercel.app/api?username=vanessann-dev&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false" />
   <br/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanessann-dev&theme=blueberry&hide_border=false" />
+
   <br/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessann-dev&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
