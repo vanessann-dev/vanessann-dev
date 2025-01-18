@@ -18,18 +18,15 @@ I consider myself a creative person, which is why I am currently studying U/I an
 
 ---
 
-
 ## GitHub Stats 📊
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanessann-dev&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false" />
-  <br/>
-  <br/>
 
-  <br/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessann-dev&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vanessann-dev&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vanessann-dev&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
+|---|---|
+
 </div>
+
 
 ---
 
